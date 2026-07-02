@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hand Finger Detection AI</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <h1>Hand Finger Detection AI</h1>
+
+    <button onclick="startCamera()">Start Camera</button>
+
+    <button onclick="stopCamera()">Stop Camera</button>
+
+    <br><br>
+
+    <img id="video" width="700">
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+</html>
