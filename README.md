@@ -71,7 +71,7 @@ HandFingerDetectionAI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rakshidasri18-sketch/HandFingerDetectionAI.git
+git clone https://github.com/rakshidasri18-sketch/CodeBind-Technologies-Internship.git
 ```
 
 ### 2. Navigate to the Project Folder
